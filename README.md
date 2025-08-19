@@ -35,8 +35,6 @@ We reconstruct the penalty kick as a two-player zero-sum game and test:
 - **AAMS-The-Case-of-Penalty-Kicks/README.md**: Additional notes specific to the subproject
 - **FinalReportAAMS.pdf**: Final report (PDF)
 
-## ▶️ Demo
-We also include a short simulation illustrating penalty-kick strategies under equilibrium play.
 
 ## 👥 Authors
 - Manuel Navalho (IST)
